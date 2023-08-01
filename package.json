@@ -1,11 +1,11 @@
 {
   "name": "challenge-tenico-42i",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "challenge-tecnico-42i",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "nodemon twoNumberSum.js"
+    "start" : "nodemon main.js"
   },
   "author": "",
   "license": "ISC",
